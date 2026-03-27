@@ -39,4 +39,4 @@
 
 ## 📫 Контакты
 *   **Email:** [egaslasvegas@gmail.com](mailto:egaslasvegas@gmail.com)
-*   **Telegram:** [@mill00ndolars]
+*   **Telegram:** [@mill00ndolars](@mill00ndolars)
