@@ -21,21 +21,21 @@
 
 ## 🚀 Избранные кейсы
 
-### 📱 [Mobile Game Performance Analysis](https://github.com)
+### 📱 [Mobile Game Performance Analysis](https://github.com/YegorZinAnalyst/mobile-marketing-performance-analysis)
 Глубокое исследование игрового продукта: вовлеченность, виральность и монетизация.
 *   **Highlight:** Рассчитал **K-factor** и спрогнозировал рост когорт. Реализовал сложную сегментацию лояльной аудитории через DuckDB.
 *   **Impact:** Выявлен технический баг на iOS (потеря 12% данных), предложены меры по оптимизации маркетинговых затрат.
 
 ![LMAU Preview](https://raw.githubusercontent.com)
 
-### 🛒 [Retail A/B Test Analysis](https://github.com)
+### 🛒 [Retail A/B Test Analysis](https://github.com/YegorZinAnalyst/retail-ab-test-analysis)
 Оценка маркетинговых коммуникаций (пуши, баннеры) и автоматизация отчетности.
 
 ---
 
 ## 🌍 Языки
 *   **Русский:** Родной.
-*   **English:** B2 (Intermediate) — чтение технической документации, ведение переписки.
+*   **English:** B2 (Upper-Intermediate) — свободное чтение технической документации, ведение аналитической отчетности.
 
 ## 📫 Контакты
 *   **Email:** [egaslasvegas@gmail.com](mailto:egaslasvegas@gmail.com)
