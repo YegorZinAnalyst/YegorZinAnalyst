@@ -26,7 +26,7 @@
 *   **Highlight:** Рассчитал **K-factor** и спрогнозировал рост когорт. Реализовал сложную сегментацию лояльной аудитории через DuckDB.
 *   **Impact:** Выявлен технический баг на iOS (потеря 12% данных), предложены меры по оптимизации маркетинговых затрат.
 
-![LMAU Preview](https://raw.githubusercontent.com)
+[![LMAU Preview](images/lmau_segments.png)](https://colab.research.google.com/github/YegorZinAnalyst/mobile-marketing-performance-analysis/blob/main/notebooks/mobile_marketing_performance_analysis.ipynb)
 
 ### 🛒 [Retail A/B Test Analysis](https://github.com/YegorZinAnalyst/retail-ab-test-analysis)
 Оценка маркетинговых коммуникаций (пуши, баннеры) и автоматизация отчетности.
