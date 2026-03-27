@@ -1,16 +1,42 @@
-## Hi there 👋
+# Привет, я Егор! 👋 | Data Analyst 📊
 
-<!--
-**YegorZinAnalyst/YegorZinAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Специализируюсь на продуктовой и финансовой аналитике. Обладаю опытом работы с полным циклом данных: от выгрузки из сложных БД (Oracle, PostgreSQL) до построения интерактивных дашбордов и проверки продуктовых гипотез.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Технический стек
+
+### **Инструменты и языки**
+*   **Python:** Pandas, NumPy, Matplotlib, Seaborn, **SciPy** (статистический анализ), **Plotly** (интерактивная визуализация).
+*   **SQL:** PostgreSQL, **Oracle**, **DuckDB** (высокопроизводительная аналитика).
+*   **BI & Визуализация:** **Power BI** (DAX, Power Query), **Metabase**, Miro.
+*   **Электронные таблицы:** MS Excel (Power Pivot), Google Sheets.
+
+### **Аналитическая экспертиза**
+*   **Product Analytics:** Когортный анализ (LTV/Retention), Юнит-экономика, сегментация пользователей.
+*   **Experimentation:** Проектирование и анализ A/B-тестов (расчет статзначимости, выборка).
+*   **Business Insights:** Категорийный анализ, моделирование продаж, мониторинг ценовых коридоров.
+
+---
+
+## 🚀 Избранные кейсы
+
+### 📱 [Mobile Game Performance Analysis](https://github.com)
+Глубокое исследование игрового продукта: вовлеченность, виральность и монетизация.
+*   **Highlight:** Рассчитал **K-factor** и спрогнозировал рост когорт. Реализовал сложную сегментацию лояльной аудитории через DuckDB.
+*   **Impact:** Выявлен технический баг на iOS (потеря 12% данных), предложены меры по оптимизации маркетинговых затрат.
+
+![LMAU Preview](https://raw.githubusercontent.com)
+
+### 🛒 [Retail A/B Test Analysis](https://github.com)
+Оценка маркетинговых коммуникаций (пуши, баннеры) и автоматизация отчетности.
+
+---
+
+## 🌍 Языки
+*   **Русский:** Родной.
+*   **English:** B2 (Intermediate) — чтение технической документации, ведение переписки.
+
+## 📫 Контакты
+*   **Email:** [egaslasvegas@gmail.com](mailto:egaslasvegas@gmail.com)
+*   **Telegram:** [@mill00ndolars]
