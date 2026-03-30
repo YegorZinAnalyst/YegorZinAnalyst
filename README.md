@@ -37,7 +37,7 @@
 
 ## 🌍 Языки
 *   **Русский:** Родной.
-*   **English:** B2 (Upper-Intermediate) — свободное чтение технической документации, ведение аналитической отчетности.
+*   **English:** B1 (Intermediate) —  чтение технической документации, ведение аналитической отчетности.
 
 ## 📫 Контакты
 *   **Email:** [egaslasvegas@gmail.com](mailto:egaslasvegas@gmail.com)
