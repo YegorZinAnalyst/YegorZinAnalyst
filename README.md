@@ -21,6 +21,7 @@
 
 ## 🎓 Сертификация
 
+[![Сертификаты](https://img.shields.io/badge/Мои%20сертификаты-Skypro%20•%20Kaggle%20•%20Другое-2C3E50?style=for-the-badge&logo=github)](https://github.com/YegorZinAnalyst/my-certificates)
 [![Kaggle Pandas](https://img.shields.io/badge/Kaggle-Pandas-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/yegorzinoviev/pandas)
 [![Kaggle SQL Advanced](https://img.shields.io/badge/Kaggle-SQL%20Advanced-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/learn/certification/yegorzinoviev/advanced-sql)
 
